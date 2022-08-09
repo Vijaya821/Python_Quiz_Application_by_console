@@ -1,0 +1,26 @@
+what is name of computer?#lenevo#IBM Thinkpad#Hp#Acer#3
+what is 2+5...?#7#5#23#21#1
+what is 4%2...?#7#5#0#9#3
+what is color of board?#white#red#green#black#4
+what is the color of water?#yellow#green#no color#white#3
+Who is the founder of Python?#James#satya#bill gates#Guido Van Rossum#4
+What is the current day?#Sun#Mon#Sat#Fri#2
+what is the prime number among the given?#14#7#10#18#2
+What is the capital of TS?#Hyd#warangal#VZG#Vijayawada#1
+what is your favourite food?#rice#chapathi#biryani#sambar#3
+what is the color of water?#yellow#green#no color#white#3
+Who is the founder of Python?#James#satya#bill gates#Guido Van Rossum#4
+What is the current day?#Sun#Mon#Sat#Fri#2
+what is the prime number among the given?#14#7#10#18#2
+What is the capital of TS?#Hyd#warangal#VZG#Vijayawada#1
+what is the color of water?#yellow#green#no color#white#3
+Who is the founder of Python?#James#satya#bill gates#Guido Van Rossum#4
+What is the current day?#Sun#Mon#Sat#Fri#2
+what is the prime number among the given?#14#7#10#18#2
+What is the capital of TS?#Hyd#warangal#VZG#Vijayawada#1
+what is date of friendship day ?#Aug 1st Week#sep 21#july 30#Aug 2#1
+what is the color of water?#yellow#green#no color#white#3
+Who is the founder of Python?#James#satya#bill gates#Guido Van Rossum#4
+What is the current day?#Sun#Mon#Sat#Fri#2
+what is the prime number among the given?#14#7#10#18#2
+What is the capital of TS?#Hyd#warangal#VZG#Vijayawada#1
